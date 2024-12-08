@@ -1,0 +1,12 @@
+C:\Users\Kristina\Desktop\Форма\Форма\bin\Debug\Форма.exe.config
+C:\Users\Kristina\Desktop\Форма\Форма\bin\Debug\Форма.exe
+C:\Users\Kristina\Desktop\Форма\Форма\bin\Debug\Форма.pdb
+C:\Users\Kristina\Desktop\Форма\Форма\obj\Debug\Форма.csproj.AssemblyReference.cache
+C:\Users\Kristina\Desktop\Форма\Форма\obj\Debug\Форма.Form1.resources
+C:\Users\Kristina\Desktop\Форма\Форма\obj\Debug\Форма.Form2.resources
+C:\Users\Kristina\Desktop\Форма\Форма\obj\Debug\Форма.Form3.resources
+C:\Users\Kristina\Desktop\Форма\Форма\obj\Debug\Форма.Properties.Resources.resources
+C:\Users\Kristina\Desktop\Форма\Форма\obj\Debug\Форма.csproj.GenerateResource.cache
+C:\Users\Kristina\Desktop\Форма\Форма\obj\Debug\Форма.csproj.CoreCompileInputs.cache
+C:\Users\Kristina\Desktop\Форма\Форма\obj\Debug\Форма.exe
+C:\Users\Kristina\Desktop\Форма\Форма\obj\Debug\Форма.pdb
